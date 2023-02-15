@@ -14,14 +14,14 @@ Prerequisites:
 
 Rename the Injector.exe to a random name like "AKPDNAVCAIUZkmjna"
 
-ÃƒÂ¢Ã…Â¾Ã‚Â¤Download VC_Redist and install
+ÃƒÆ’Ã‚Â¢Ãƒâ€¦Ã‚Â¾Ãƒâ€šÃ‚Â¤Download VC_Redist and install
 Download Link: https://aka.ms/vs/16/release/vc_redist.x64.exe
 
-ÃƒÂ¢Ã…Â¾Ã‚Â¤ Disable Windows Defender In Windows Settings First Then;
-ÃƒÂ¢Ã…Â¾Ã‚Â¤ Download defender controller 2.0 and click disable
+ÃƒÆ’Ã‚Â¢Ãƒâ€¦Ã‚Â¾Ãƒâ€šÃ‚Â¤ Disable Windows Defender In Windows Settings First Then;
+ÃƒÆ’Ã‚Â¢Ãƒâ€¦Ã‚Â¾Ãƒâ€šÃ‚Â¤ Download defender controller 2.0 and click disable
 Download Link: https://www.sordum.org/downloads/?st-defender-control
 
-ÃƒÂ¢Ã…Â¾Ã‚Â¤ Download windows update blocker and click disable update
+ÃƒÆ’Ã‚Â¢Ãƒâ€¦Ã‚Â¾Ãƒâ€šÃ‚Â¤ Download windows update blocker and click disable update
 Download Link: https://www.sordum.org/files/downloads.php?st-windows-update-blocker
 
 After that Please do the steps below which is common for any cheat to work
@@ -50,4 +50,3 @@ Drop the ".sys" on the Injector.exe
 meny key is INSERT/DELETE
 
 WHENEVER YOU FINISH OR WANT TO PLAY AGAIN PLEASE RESTART THE COMPUTER.
- 

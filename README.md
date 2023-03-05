@@ -54,4 +54,3 @@ Drop the ".sys" on the Injector.exe
 meny key is INSERT/DELETE
 
 WHENEVER YOU FINISH OR WANT TO PLAY AGAIN PLEASE RESTART THE COMPUTER.
- 
